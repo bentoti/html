@@ -1,2 +1,2 @@
 # html
-Curso de html, css , javascritp
+Curso de html, css , javascript
